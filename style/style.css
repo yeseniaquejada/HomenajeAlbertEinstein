@@ -1,0 +1,74 @@
+body{
+    background-color: #8ae0ff;
+ }
+header{
+    color:black;
+    font-size: 20px;
+    display:flex;
+    justify-content: center;
+ }
+ #imagen{ 
+     width: 100%;
+     height: 500px;
+ }
+h4{
+    color:darkmagenta;
+    font-style: italic;
+    font-size: 20px;
+    display:flex;
+    justify-content: center;
+ }
+#inicio{ 
+    color:black;
+    font-size: 20px;
+    display:flex;
+    justify-content: center;
+}
+p,label{
+    color:black;
+    font-size: 20px;
+    display:flex;
+    justify-content:right;
+}
+a{
+    color:darkmagenta;
+    font-style: italic;
+    font-size: 20px; 
+}
+#tituloimagenes{
+    color:black;
+    font-size: 20px;
+    display:flex;
+    justify-content: center;
+}
+.Trabajos{
+    width: 250px;
+    height:250px;
+    margin-right: 50px;
+
+} 
+.separacion{
+    display: flex;
+    justify-content: center;
+
+} 
+h3{
+    color:darkmagenta;
+    font-style: italic;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+footer {
+    display: flex;
+    color:darkmagenta;
+    font-style: italic;
+    justify-content: center;
+  }
+  #video {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    justify-content: center;
+  }
